@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listDVDs columnNAME="0" columnTITLE="1" columnRDATE="2" columnRTDATE="3" columnINFO="4">
+    <version>0</version>
+    <columnNames>Customer Name</columnNames>
+    <columnNames>Title</columnNames>
+    <columnNames>Rental Date</columnNames>
+    <columnNames>Due Date</columnNames>
+    <columnNames>Information</columnNames>
+    <listDVDs xsi:type="game" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <rentedOn>2018-03-20T00:00:00-04:00</rentedOn>
+        <dueBack>2018-04-20T00:00:00-04:00</dueBack>
+        <title>Street Fighter Alpha</title>
+        <nameOfRenter>Allie Allen </nameOfRenter>
+        <i/>
+        <serialVersionUID>2</serialVersionUID>
+        <player>Xbox360</player>
+        <info>Game - Required Player System: Xbox360</info>
+        <daysLate>0.0</daysLate>
+        <playString>Xbox360</playString>
+        <doubleLayer>false</doubleLayer>
+        <cost>0.0</cost>
+    </listDVDs>
+    <listDVDs xsi:type="game" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <rentedOn>2010-01-20T00:00:00-05:00</rentedOn>
+        <dueBack>2018-12-20T00:00:00-05:00</dueBack>
+        <title>The Shadow of the Colossus</title>
+        <nameOfRenter>Sam Stone</nameOfRenter>
+        <i/>
+        <serialVersionUID>2</serialVersionUID>
+        <player>PS4</player>
+        <info>Game - Required Player System: PS4</info>
+        <daysLate>0.0</daysLate>
+        <playString>PS4</playString>
+        <doubleLayer>false</doubleLayer>
+        <cost>0.0</cost>
+    </listDVDs>
+    <listDVDs xsi:type="game" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <rentedOn>2018-03-20T00:00:00-04:00</rentedOn>
+        <dueBack>2020-01-20T00:00:00-05:00</dueBack>
+        <title>God of War</title>
+        <nameOfRenter>Callous Meridious</nameOfRenter>
+        <i/>
+        <serialVersionUID>2</serialVersionUID>
+        <player>PC</player>
+        <info>Game - Required Player System: PC</info>
+        <daysLate>0.0</daysLate>
+        <playString>PC</playString>
+        <doubleLayer>false</doubleLayer>
+        <cost>0.0</cost>
+    </listDVDs>
+    <listDVDs>
+        <rentedOn>2018-03-20T00:00:00-04:00</rentedOn>
+        <dueBack>2018-12-20T00:00:00-05:00</dueBack>
+        <title>Titanic III</title>
+        <nameOfRenter>Jim Carry</nameOfRenter>
+        <i/>
+        <info>DVD - Standard Single Layered: DVD</info>
+        <cost>0.0</cost>
+        <daysLate>0.0</daysLate>
+        <doubleLayer>false</doubleLayer>
+    </listDVDs>
+    <listDVDs xsi:type="bluRay" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <rentedOn>2010-01-20T00:00:00-05:00</rentedOn>
+        <dueBack>2018-04-20T00:00:00-04:00</dueBack>
+        <title>Shadow Runner</title>
+        <nameOfRenter>Jim Booluchi</nameOfRenter>
+        <i/>
+        <daysLate>0.0</daysLate>
+        <serialVersionUID>2</serialVersionUID>
+        <info>BluRay - Double Layered: false</info>
+        <doubleLayer>false</doubleLayer>
+        <cost>0.0</cost>
+    </listDVDs>
+    <listDVDs xsi:type="bluRay" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <rentedOn>2010-01-20T00:00:00-05:00</rentedOn>
+        <dueBack>2018-03-20T00:00:00-04:00</dueBack>
+        <title>A Nightmare Before Christmas</title>
+        <nameOfRenter>Charlie Chaplin</nameOfRenter>
+        <i/>
+        <daysLate>0.0</daysLate>
+        <serialVersionUID>2</serialVersionUID>
+        <info>BluRay - Double Layered: true</info>
+        <doubleLayer>true</doubleLayer>
+        <cost>0.0</cost>
+    </listDVDs>
+    <listDVDs xsi:type="game" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <rentedOn>2018-03-20T00:00:00-04:00</rentedOn>
+        <dueBack>2018-12-20T00:00:00-05:00</dueBack>
+        <title>Oxygen Not Included</title>
+        <nameOfRenter>Jay Bird</nameOfRenter>
+        <i/>
+        <serialVersionUID>2</serialVersionUID>
+        <player>PC</player>
+        <info>Game - Required Player System: PC</info>
+        <daysLate>0.0</daysLate>
+        <playString>PC</playString>
+        <doubleLayer>false</doubleLayer>
+        <cost>0.0</cost>
+    </listDVDs>
+</listDVDs>
